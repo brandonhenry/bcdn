@@ -734,3 +734,5 @@ var ImagePlayer = function(args) {
     }
   
   }
+
+  window.ImagePlayer = ImagePlayer;
