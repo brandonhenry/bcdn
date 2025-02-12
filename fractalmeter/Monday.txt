@@ -1,0 +1,30 @@
+Option 1: ZIM
+Current Strike: $20.00
+Breakeven Strike: $18.55
+Potential Loss: $3.55
+Potential Profit (price of premium received): $1.45
+
+Risk-to-reward: 2.45 to 1
+Smaller Strike: $15.00
+Expires: 20 December 2024 | X Days
+Ask (to buy): $0.10
+
+Larger Strike: $20.00
+Expires: 20 December 2024 | X Days
+Bid (to sell): $1.55
+
+
+Option 2: ZIM
+Current Strike: $21.00
+Breakeven Strike: $19.48
+Potential Loss: $1.48
+Potential Profit (price of premium received): $1.52
+Risk-to-reward: 0.97 to 1
+
+Smaller Strike: $18.00
+Expires: 6 December 2024 | X Days
+Ask (to buy): $0.30
+
+Larger Strike: $21.00
+Expires: 6 December 2024 | X Days
+Bid (to sell): $1.82
